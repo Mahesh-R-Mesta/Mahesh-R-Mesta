@@ -5,4 +5,5 @@
 - 👯 I’m looking to collaborate on <b>Flutter projects</b>
 - 💬 Ask me about <b>Flutter</b>
 - 📫 How to reach me: maheshmesta98@gmail.com
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UsqrsXa71CBK-KNx3d03HjECDf2tgq1i/view?usp=sharing">Resume<a/> 
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1UsqrsXa71CBK-KNx3d03HjECDf2tgq1i/view?usp=sharing">Resume<a/>
+- 🌐 Connect with me on <a href="https://www.linkedin.com/in/mahesh-mesta-296b4b16b/">Linked-In<a/>
